@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){:.align-right width="200px"}
+![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){:.align-right width="300px"}
 
 👨‍💻 I am a PhD student at the Mehta Family School of Data Science and Artificial Intelligence, Indian Institute of Technology (IIT) Roorkee, specializing in the intersection of computer vision, deep learning, and reinforcement learning.
 
