@@ -15,7 +15,7 @@ redirect_from:
 
 # Research Interest
 
-🔬Under the mentorship of [Prof. Sanjeev Kumar](https://www.iitr.ac.in/~MA/Malikfma) and [Prof. Balasubramanian Raman](https://www.iitr.ac.in/~CSE/Balasubramanian_R_), I am currently conducting research at the forefront of data science and AI. My primary work focuses on advancing computer vision techniques and its applications using deep learning and reinforcement learning.
+🔬Under the mentorship of [Prof. Sanjeev Kumar](https://www.iitr.ac.in/~MA/Malikfma) and [Prof. Balasubramanian Raman](https://faculty.iitr.ac.in/cs/bala/), I am currently conducting research at the forefront of data science and AI. My primary work focuses on advancing computer vision techniques and its applications using deep learning and reinforcement learning.
 
 # Prior Experiences
 
